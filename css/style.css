@@ -287,7 +287,7 @@ animation-iteration-count: infinite;
        height: 259px;
        
 left: 2%;
-float: left; 
+float: right; 
 bottom: 6%;
 position: fixed;
 
@@ -356,7 +356,7 @@ position: fixed;
        height: 217px;
        
 left: 30%;
-float: left; 
+float: right; 
 top: 4%;
 position: fixed;
 
@@ -365,8 +365,8 @@ position: fixed;
 .g8 {width: 330px;
        height: 217px;
        
-left: 50%;
-float: right; 
+left: 47%;
+float: left; 
 top: 4%;
 position: fixed;
 
@@ -390,7 +390,7 @@ position: fixed;}
 
 
 
-.d1 {width: 700px;
+.d1 {width: 100%;
        height: 350px;
        
 left: 48%;
@@ -399,7 +399,7 @@ bottom: 6%;
 position: fixed;
 
 }
-.d2 {width: 700px;
+.d2 {width: 100%;
        height: 350px;
        
 left: 9%;
